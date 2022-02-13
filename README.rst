@@ -1,11 +1,4 @@
-Rich's B Compiler
-=================
-
-.. image:: https://travis-ci.org/rjw57/rbc.svg?branch=master
-    :target: https://travis-ci.org/rjw57/rbc
-
-This repository contains my experimental B compiler written as a Christmas
-vacation project 2015.
+## This is a fork
 
 Installation and getting started
 --------------------------------
